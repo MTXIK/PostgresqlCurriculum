@@ -1,0 +1,2 @@
+# PostgresqlCurriculum
+University databases course
